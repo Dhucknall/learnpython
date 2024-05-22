@@ -1,0 +1,26 @@
+git is a memory card for code
+
+git init in folder you want to back up either filename or add . to add everything staging area
+
+After adding you need to do git commit -m "description changes" writes to memory
+
+git log shows saves
+
+git checkout and hash code from log to goto backup
+
+git remote add origin https://path to repo
+
+git push -u origin master to upload to github
+
+git checkout -b new-branch makes a new branch called new-branch and changes to new-branch
+
+git branch lists all branches
+
+git push origin new-branch will push new branch up to github
+
+git pull origin master to download changes from github
+
+
+
+
+
